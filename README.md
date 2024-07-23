@@ -1,4 +1,4 @@
-# AWS CI/CD Pipeline and Monitoring Setup
+# AWS Infra provisioning, Jenkins CI/CD Pipeline and Monitoring Setup
 
 1. **Provision AWS Environment with Terraform**:
       Use Terraform to create a VPC with public and private subnets, launch an EC2 instance with a web server, and set up firewall rules. See the `main.tf` file for the configuration.
